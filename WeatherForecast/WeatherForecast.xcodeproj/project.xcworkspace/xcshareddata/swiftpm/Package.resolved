@@ -17,6 +17,15 @@
         "revision" : "cb5c3c02f652420ef413dea41e13ac5a76b6c0fd",
         "version" : "6.1.1"
       }
+    },
+    {
+      "identity" : "reswift-thunk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ReSwift/ReSwift-Thunk",
+      "state" : {
+        "revision" : "5ee9816158a2115863b1458c66cf1be9e9143b39",
+        "version" : "2.0.1"
+      }
     }
   ],
   "version" : 2
